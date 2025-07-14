@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.2.0...v1.3.0) (2025-07-14)
+
+
+### Features
+
+* **auth:** add login validation ([d0d2550](https://github.com/harshalBhawsar30/sdk_release/commit/d0d2550b3c774f18c490e10fd6a861defe59117a))
+* **widget:** add graph A ([e9199aa](https://github.com/harshalBhawsar30/sdk_release/commit/e9199aaad2c67b56cf79f045957c1a5b9918a542))
+* **widget:** add graph B ([9c4290e](https://github.com/harshalBhawsar30/sdk_release/commit/9c4290ed67511d1fc85b5b09b9a3b324ce70d4bf))
+
+
+### Bug Fixes
+
+* **ui:** align graph headers ([bccdf47](https://github.com/harshalBhawsar30/sdk_release/commit/bccdf472e3f61a05d402069cbcf99206381e6351))
+
 ## [1.2.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.1.2...v1.2.0) (2025-07-14)
 
 
