@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.3.7](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.6...v1.3.7) (2025-07-14)
+
 ### [1.3.6](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.5...v1.3.6) (2025-07-14)
 
 ### [1.3.5](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.4...v1.3.5) (2025-07-14)
