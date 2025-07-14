@@ -16,3 +16,4 @@ console.log('SDK loaded');
 // checking unconventional commit on main with custom script
 // another test
 // test commit after last tag
+// test commit after last tag
