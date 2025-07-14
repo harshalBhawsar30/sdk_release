@@ -2,19 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
-### [1.3.8](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.7...v1.3.8) (2025-07-14)
+### [1.4.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.7...v1.3.8) (2025-07-14)
+### External
+-tested
 
-### [1.3.7](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.6...v1.3.7) (2025-07-14)
-
-### [1.3.6](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.5...v1.3.6) (2025-07-14)
-
-### [1.3.5](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.4...v1.3.5) (2025-07-14)
-
-### [1.3.4](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.3...v1.3.4) (2025-07-14)
-
-### [1.3.3](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.2...v1.3.3) (2025-07-14)
-
-### [1.3.2](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.1...v1.3.2) (2025-07-14)
+### Internal
+-tested
 
 ### [1.3.1](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.0...v1.3.1) (2025-07-14)
 
