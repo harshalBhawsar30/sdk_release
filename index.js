@@ -8,3 +8,4 @@ console.log('SDK loaded');
 // new widget A
 // new widget B
 // bugfix
+// forgot commit format
