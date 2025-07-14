@@ -1,20 +1,22 @@
 module.exports = {
   parserOpts: {
-    // Accept anything that looks like a commit
     headerPattern: /^(\w*)(?:\((.*)\))?: (.*)$/,
     headerCorrespondence: ["type", "scope", "subject"],
     noteKeywords: ["BREAKING CHANGE", "BREAKING CHANGES"],
   },
   writerOpts: {
-    // Show all types, not just feat/fix
-    commitGroupsSort: "title",
-    commitsSort: ["scope", "subject"],
-    groupBy: "type",
-    transform: (commit, context) => {
-      // if no type, set to "misc"
+    groupBy: 'type',
+    commitGroupsSort: 'title',
+    commitsSort: ['scope', 'subject'],
+    transform: (commit) => {
+      // fallback for non-conventional commits
       if (!commit.type) {
-        commit.type = "misc";
+        commit.type = 'misc';
       }
+
+      // clean up commit subject
+      commit.subject = commit.subject || commit.header;
+
       return commit;
     },
   },
