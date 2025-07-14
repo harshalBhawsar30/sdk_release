@@ -10,3 +10,14 @@ console.log('SDK loaded');
 // bugfix
 // forgot commit format
 // login feature
+// checking unconventional commit on main
+// checking unconventional commit on testbranch2
+// checking unconventional commit on main with custom script
+// checking unconventional commit on main with custom script
+// another test
+// test commit after last tag
+// test commit after last tag
+// test commit after last tag11
+// test commit after last tagging
+// testing changelog visibility
+// fix: critical bug on main
