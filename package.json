@@ -12,8 +12,5 @@
   "license": "ISC",
   "devDependencies": {
     "standard-version": "^9.5.0"
-  },
-  "standard-version": {
-    "config": ".versionrc.js"
   }
 }

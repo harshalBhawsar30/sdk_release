@@ -18,3 +18,4 @@ console.log('SDK loaded');
 // test commit after last tag
 // test commit after last tag
 // test commit after last tag11
+// test commit after last tagging
