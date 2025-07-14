@@ -12,3 +12,4 @@ console.log('SDK loaded');
 // login feature
 // checking unconventional commit on main
 // checking unconventional commit on testbranch2
+// checking unconventional commit on main with custom script
