@@ -16,6 +16,28 @@ All notable changes to this project will be documented in this file. See [standa
 
 * **api:** handle empty response in user endpoint ([b7e70be](https://github.com/harshalBhawsar30/sdk_release/commit/b7e70befaf18890897236e9596d2faf350343f96))
 
+## [1.5.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.11...v1.5.0) (2025-07-14)
+
+
+### Features
+
+* **debug:** add test line for changelog ([0470a33](https://github.com/harshalBhawsar30/sdk_release/commit/0470a33507104a381805ba8d5103b940dd41e04c))
+
+## [1.4.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.11...v1.4.0) (2025-07-14)
+
+
+### Features
+
+* **debug:** add test line for changelog ([0470a33](https://github.com/harshalBhawsar30/sdk_release/commit/0470a33507104a381805ba8d5103b940dd41e04c))
+
+### [1.3.11](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.10...v1.3.11) (2025-07-14)
+
+### [1.3.10](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.9...v1.3.10) (2025-07-14)
+
+### [1.3.9](https://github.com/harshalBhawsar30/sdk_release/compare/v2.0.0...v1.3.9) (2025-07-14)
+
+
+
 ## [1.3.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.2.0...v1.3.0) (2025-07-14)
 
 
