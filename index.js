@@ -7,3 +7,4 @@ console.log('SDK loaded');
 // fix tooltip
 // new widget A
 // new widget B
+// bugfix
