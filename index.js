@@ -6,3 +6,4 @@ console.log('SDK loaded');
 // internal cleanup
 // fix tooltip
 // new widget A
+// new widget B
