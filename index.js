@@ -5,3 +5,4 @@ console.log('SDK loaded');
 // testing internal and external changelogs
 // internal cleanup
 // fix tooltip
+// new widget A
