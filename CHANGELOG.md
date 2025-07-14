@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/harshalBhawsar30/sdk_release/compare/v1.1.1...v1.1.2) (2025-07-14)
+
+
+### Bug Fixes
+
+* **loader:** testing automated release flow ([4c7bc13](https://github.com/harshalBhawsar30/sdk_release/commit/4c7bc13eb3e42695e6bbcfd03e0eb09daa677cf8))
+
 ### [1.1.1](https://github.com/harshalBhawsar30/sdk_release/compare/v1.1.0...v1.1.1) (2025-07-14)
 
 
