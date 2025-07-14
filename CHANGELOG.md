@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/harshalBhawsar30/sdk_release/compare/v1.4.0...v1.3.2) (2025-07-14)
+
+
+### Bug Fixes
+
+* **api:** handle empty response in user endpoint ([b7e70be](https://github.com/harshalBhawsar30/sdk_release/commit/b7e70befaf18890897236e9596d2faf350343f96))
+
 ### [1.3.1](https://github.com/harshalBhawsar30/sdk_release/compare/v1.4.0...v1.3.1) (2025-07-14)
 
 
