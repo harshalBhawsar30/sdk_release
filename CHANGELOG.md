@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.6](https://github.com/harshalBhawsar30/sdk_release/compare/v1.7.5...v1.7.6) (2025-07-15)
+
+
+### Bug Fixes
+
+* **input:** handle empty string cases ([852aede](https://github.com/harshalBhawsar30/sdk_release/commit/852aede29e0fa19a38b781a0c706101b7ff8f981))
+
+
+### Chores
+
+* **logging:** log a new line for testing ([c12ab21](https://github.com/harshalBhawsar30/sdk_release/commit/c12ab21f128d0990a74a24f5a51c54a1a06a8ad0))
+
 ### [1.7.5](https://github.com/harshalBhawsar30/sdk_release/compare/v1.7.4...v1.7.5) (2025-07-15)
 
 
