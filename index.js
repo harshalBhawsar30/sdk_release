@@ -27,3 +27,4 @@ console.log('SDK loaded');
 // testing new version lifecycle script
 // testing new version lifecycle script111
 // testing new version lifecycle script222
+// logging chore
