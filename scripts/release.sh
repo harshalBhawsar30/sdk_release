@@ -18,10 +18,10 @@ echo "📄 Extracting release notes..."
 node scripts/extract-release-notes.js "v$VERSION" > changelog-v$VERSION.json
 
 echo "🚀 Publishing GitHub release..."
-# gh release create "v$VERSION" \
-#   --notes-file changelog-v$VERSION.json \
-#   --title "v$VERSION" \
-#   "$ZIP_NAME" \
-#   "sdk-version-status.json"
+gh release create "v$VERSION" \
+  --notes-file changelog-v$VERSION.json \
+  --title "v$VERSION" \
+  "$ZIP_NAME" \
+  "sdk-version-status.json"
 
 echo "✅ Done!"

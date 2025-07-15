@@ -29,6 +29,7 @@ function classifyVersions(tags) {
     "1.3.0": "2024-01-15",
   };
 
+  //calculates how many months ago each version was released and returns an array
   const versionInfo = tags.map(({ tag, date }) => {
     const version = semver.clean(tag);
     const simulatedDate = FAKE_DATES[version] || date;
@@ -42,6 +43,7 @@ function classifyVersions(tags) {
     semver.rcompare(a.version, b.version)
   );
 
+  //detects the latest 2 major versions
   sorted.forEach(({ version }) => {
     const major = semver.major(version);
     if (!activeMajors.includes(major)) {
@@ -50,6 +52,7 @@ function classifyVersions(tags) {
     if (activeMajors.length === 2) return;
   });
 
+  //classifies Each Version
   return sorted.map((v) => {
     const major = semver.major(v.version);
     if (activeMajors.includes(major) && v.ageInMonths <= 8) {
@@ -65,14 +68,14 @@ function classifyVersions(tags) {
 const tags = getTagsWithDates();
 const results = classifyVersions(tags);
 
-// ✅ Write to file
+// Write to file
 fs.writeFileSync(
   "./sdk-version-status.json",
   JSON.stringify(results, null, 2),
   "utf-8"
 );
 
-// ✅ Print to console
+
 console.log("\n🔍 SDK Version Lifecycle Status:\n");
 results.forEach(({ version, date, status }) => {
   console.log(`- ${version} (released ${date}): ${status}`);

@@ -1,6 +1,0 @@
-### [1.7.5](https://github.com/harshalBhawsar30/sdk_release/compare/v1.7.4...v1.7.5) (2025-07-15)
-
-
-### Bug Fixes
-
-* **logging:** log a new line for testing ([1a10833](https://github.com/harshalBhawsar30/sdk_release/commit/1a10833927f9f40a1070acca3ccae8065d02bcb7))
