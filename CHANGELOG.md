@@ -16,6 +16,14 @@ All notable changes to this project will be documented in this file. See [standa
 
 * **api:** handle empty response in user endpoint ([b7e70be](https://github.com/harshalBhawsar30/sdk_release/commit/b7e70befaf18890897236e9596d2faf350343f96))
 
+### [1.5.1](https://github.com/harshalBhawsar30/sdk_release/compare/v1.5.0...v1.5.1) (2025-07-15)
+
+
+### Bug Fixes
+
+* **core:** handle null case ([ae7e525](https://github.com/harshalBhawsar30/sdk_release/commit/ae7e525b0b7a7cac82bccab7bdb2640e3f598bd0))
+* **lifecycle:** validate tagging and lifecycle ([de5e7c4](https://github.com/harshalBhawsar30/sdk_release/commit/de5e7c468a037faa93a7614a39063cbb8817d380))
+
 ## [1.5.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.11...v1.5.0) (2025-07-14)
 
 
