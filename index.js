@@ -29,9 +29,5 @@ console.log('SDK loaded');
 // testing new version lifecycle script222
 // logging chore
 // logging chore
-// added validation for input
-// added validation for input1
-// added validation for input12
-// added validation for input12
 // added validation for input12
 // added validation for input12
