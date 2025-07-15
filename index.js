@@ -24,3 +24,4 @@ console.log('SDK loaded');
 // fix: critical bug on main
 
 // test: version lifecycle trigger111
+// testing new version lifecycle script
