@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.2...v1.7.0) (2025-07-15)
+
+
+### Bug Fixes
+
+* **core:** handle null case ([9472cb6](https://github.com/harshalBhawsar30/sdk_release/commit/9472cb6e6b2c03e5b7ec22a369a704c7b7f3de8c))
+* **lifecycle:** validate tagging ([2a2c1d1](https://github.com/harshalBhawsar30/sdk_release/commit/2a2c1d15835826b6642365ec7aa5ce949991557d))
+* **lifecycle:** validate tagging and lifecycle ([bff462b](https://github.com/harshalBhawsar30/sdk_release/commit/bff462b6df28d26ac5fac39cf16a8697d7f393be))
+
+## [1.5.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.11...v1.5.0) (2025-07-14)
+
+
+### Features
+
+* **debug:** add test line for changelog ([0470a33](https://github.com/harshalBhawsar30/sdk_release/commit/0470a33507104a381805ba8d5103b940dd41e04c))
+
+### [1.3.11](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.10...v1.3.11) (2025-07-14)
+
+### [1.3.10](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.9...v1.3.10) (2025-07-14)
+
+### [1.3.9](https://github.com/harshalBhawsar30/sdk_release/compare/v2.0.0...v1.3.9) (2025-07-14)
+
+## [2.0.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.4.0...v2.0.0) (2025-07-14)
+
 ## [1.6.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.2...v1.6.0) (2025-07-15)
 
 
