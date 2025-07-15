@@ -25,3 +25,4 @@ console.log('SDK loaded');
 
 // test: version lifecycle trigger111
 // testing new version lifecycle script
+// testing new version lifecycle script111
