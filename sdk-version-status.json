@@ -2,103 +2,109 @@
   {
     "version": "2.0.0",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
+    "status": "Active"
+  },
+  {
+    "version": "1.7.5",
+    "date": "2025-07-15",
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.7.4",
     "date": "2025-07-15",
-    "ageInMonths": 0.010243358796296296,
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.7.3",
     "date": "2025-07-15",
-    "ageInMonths": 0.010243358796296296,
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.7.1",
     "date": "2025-07-15",
-    "ageInMonths": 0.010243358796296296,
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.7.0",
     "date": "2025-07-15",
-    "ageInMonths": 0.010243358796296296,
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.5.1",
     "date": "2025-07-15",
-    "ageInMonths": 0.010243358796296296,
+    "ageInMonths": 0.013716038966049383,
     "status": "Active"
   },
   {
     "version": "1.5.0",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.4.0",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.3.11",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.3.10",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.3.9",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.3.2",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.3.0",
     "date": "2024-01-15",
-    "ageInMonths": 18.24357669212963,
+    "ageInMonths": 18.247049372299383,
     "status": "Unsupported"
   },
   {
     "version": "1.2.0",
     "date": "2023-11-01",
-    "ageInMonths": 20.74357669212963,
+    "ageInMonths": 20.747049372299383,
     "status": "Unsupported"
   },
   {
     "version": "1.1.2",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.1.1",
     "date": "2025-07-14",
-    "ageInMonths": 0.04357669212962963,
+    "ageInMonths": 0.04704937229938272,
     "status": "Active"
   },
   {
     "version": "1.1.0",
     "date": "2023-09-01",
-    "ageInMonths": 22.776910025462964,
+    "ageInMonths": 22.780382705632714,
     "status": "Unsupported"
   }
 ]

@@ -29,3 +29,4 @@ console.log('SDK loaded');
 // testing new version lifecycle script222
 // logging chore
 // logging chore
+// added validation for input
