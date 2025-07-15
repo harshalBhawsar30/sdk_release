@@ -34,3 +34,4 @@ console.log('SDK loaded');
 // added validation for input12
 // added validation for input12
 // added validation for input12
+// added validation for input12
