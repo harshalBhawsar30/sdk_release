@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.4](https://github.com/harshalBhawsar30/sdk_release/compare/v3.0.3...v3.0.4) (2025-07-17)
+
+
+### Bug Fixes
+
+* **build:** test release trigger ([c9723e9](https://github.com/harshalBhawsar30/sdk_release/commit/c9723e9f9b2e15dc7b81156ae84374fb7ccd116a))
+
 ### [3.0.3](https://github.com/harshalBhawsar30/sdk_release/compare/v3.0.2...v3.0.3) (2025-07-17)
 
 
