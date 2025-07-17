@@ -1,0 +1,60 @@
+name: SDK Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # Triggers only on version tags like v1.9.0
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🟢 Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: 🔨 Build SDK
+        run: npm run build
+
+      - name: 📁 Zip SDK
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          ZIP_NAME="widget-sdk-v$VERSION.zip"
+          zip -r "$ZIP_NAME" ./build
+
+      - name: 🧠 Classify version lifecycle
+        run: node scripts/classifyVersionLifecycle.js
+
+      - name: 📄 Extract release notes
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          node scripts/extract-release-notes.js "v$VERSION" > changelog-v$VERSION.json
+
+      - name: 🏷️ Read version + status
+        id: meta
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          STATUS=$(node -p "require('./sdk-version-status.json').find(v => v.version === '$VERSION')?.status || 'Unknown'")
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "status=$STATUS" >> $GITHUB_OUTPUT
+
+      - name: 🚀 Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: "v${{ steps.meta.outputs.version }} (${{ steps.meta.outputs.status }})"
+          tag_name: "v${{ steps.meta.outputs.version }}"
+          body_path: changelog-v${{ steps.meta.outputs.version }}.json
+          files: |
+            widget-sdk-v${{ steps.meta.outputs.version }}.zip
+            sdk-version-status.json
+            changelog-v${{ steps.meta.outputs.version }}.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
