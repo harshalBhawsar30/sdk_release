@@ -2,6 +2,40 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.7.6...v3.0.0) (2025-07-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* **api:** handle empty string cases12
+* **api:** handle empty string cases12
+* **api:** handle empty string cases12
+
+### Features
+
+* **api:** handle empty string case12 ([0bc3333](https://github.com/harshalBhawsar30/sdk_release/commit/0bc33339a0dfc60809013d38cd7ac91d108d1e72))
+* **api:** handle empty string cases1 ([d34b44e](https://github.com/harshalBhawsar30/sdk_release/commit/d34b44ee10c5ee3e6cf8b97c1f50e7bfb459fc6e))
+* **api:** handle empty string cases12 ([af7f17c](https://github.com/harshalBhawsar30/sdk_release/commit/af7f17c937f4b2fe07b4a4884ddc763f31abc9c5))
+* **api:** log a new line for testing ([59b5f73](https://github.com/harshalBhawsar30/sdk_release/commit/59b5f7383e79a741d96d3ea2d8709cc4b937a02a))
+* **api:** log a new line for testing ([e8214d3](https://github.com/harshalBhawsar30/sdk_release/commit/e8214d3adc3305196a058d18428a55c504a15c34))
+* **api:** log a new line for testing1 ([510edb2](https://github.com/harshalBhawsar30/sdk_release/commit/510edb2f4e0ace5e1d2a9bf137c105666802ff4e))
+* **api:** log a new line for testing1 ([b9ec74f](https://github.com/harshalBhawsar30/sdk_release/commit/b9ec74fe2abaf8a77cfda3aadbbfcfeb8a8d0970))
+* **UI:** akdhbkhandle empty string cases1 ([47b779a](https://github.com/harshalBhawsar30/sdk_release/commit/47b779a7be2396e4b74710857f467c82e60346b3))
+
+
+### Bug Fixes
+
+* **api:** handle empty string cases12 ([f5baade](https://github.com/harshalBhawsar30/sdk_release/commit/f5baade4e84e0343fa293aa151693682255594b7))
+
+
+### Chores
+
+* **api:** handle empty string cases12 ([baea1ee](https://github.com/harshalBhawsar30/sdk_release/commit/baea1eeb5f2a587eae36169b7032625d6b229ce8))
+* **api:** handle empty string cases12 ([6ed2f2d](https://github.com/harshalBhawsar30/sdk_release/commit/6ed2f2d7f5f4ca6c2a61884e1b29e2c26adfb23e))
+* **api:** handle empty string cases12 ([c71efce](https://github.com/harshalBhawsar30/sdk_release/commit/c71efcea87c1ada25185098c95487a9434c5f0c4))
+* **api:** handle empty string cases12 ([eb00868](https://github.com/harshalBhawsar30/sdk_release/commit/eb00868d55913365747c788e9f88f312796c69af))
+* **release:** 2.0.0 ([f33df22](https://github.com/harshalBhawsar30/sdk_release/commit/f33df2280d9189e36ed2827ee54f93b125bdff13))
+
 ## [2.0.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.7.6...v2.0.0) (2025-07-17)
 
 
