@@ -3,12 +3,14 @@ name: SDK Release
 on:
   push:
     tags:
-      - 'v*'  # Triggers only on version tags like v1.9.0
+      - 'v*'
+
+permissions:
+  contents: write  # 👈 REQUIRED to create releases
 
 jobs:
   release:
     runs-on: ubuntu-latest
-
     steps:
       - name: ⬇️ Checkout code
         uses: actions/checkout@v3
