@@ -120,6 +120,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### [1.3.9](https://github.com/harshalBhawsar30/sdk_release/compare/v2.0.0...v1.3.9) (2025-07-14)
 
 
+### [1.3.1](https://github.com/harshalBhawsar30/sdk_release/compare/v1.3.0...v1.3.1) (2025-07-14)
 
 ## [1.3.0](https://github.com/harshalBhawsar30/sdk_release/compare/v1.2.0...v1.3.0) (2025-07-14)
 
